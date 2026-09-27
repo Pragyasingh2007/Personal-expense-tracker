@@ -1,0 +1,9 @@
+# Personal Expense Tracker - CSE1021 Project
+# ==========================================
+# This project is designed strictly using Python's Standard Library
+# to adhere to the VIT CSE1021 academic curriculum.
+#
+# No external pip dependencies are required to run the application!
+#
+# Optional development dependencies:
+pytest>=7.0.0
