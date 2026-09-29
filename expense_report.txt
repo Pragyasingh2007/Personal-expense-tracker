@@ -1,0 +1,32 @@
+********************************************************************
+          PERSONAL EXPENSE TRACKER - MONTHLY REPORT
+********************************************************************
+
+--- OVERVIEW ---
+  Total Number of Transactions : 8
+  Total Expenditure            : INR 4049.00
+  Average Expense / Transaction: INR 506.12
+  Highest Single Expense       : INR 1200.00 (Education - 'Semester reference textbooks and stationery' on 2026-09-02)
+  Lowest Single Expense        : INR 180.00 (Food - 'Evening snacks and juice at Gazebo' on 2026-09-22)
+
+--- BUDGET STATUS ---
+  Designated Monthly Budget    : INR 5000.00
+  Actual Monthly Spending      : INR 4049.00
+  Utilization Rate             : 81.0%
+  Budget Status                : UNDER_BUDGET
+  Details                      : Within budget: you have spent INR 4049.00 of INR 5000.00. Remaining balance: INR 951.00 (19.0% remaining).
+
+====================================================================
+               CATEGORY-WISE SPENDING BREAKDOWN
+====================================================================
+Category         |  Total (INR) | Share of Total                
+--------------------------------------------------------------------
+Bills            |       499.00 | [==--------------]  12.3%
+Education        |      1650.00 | [=======---------]  40.8%
+Entertainment    |       300.00 | [=---------------]   7.4%
+Food             |       530.00 | [==--------------]  13.1%
+Shopping         |       850.00 | [===-------------]  21.0%
+Travel           |       220.00 | [=---------------]   5.4%
+--------------------------------------------------------------------
+Grand Total      |      4049.00 | 100.0%
+====================================================================
